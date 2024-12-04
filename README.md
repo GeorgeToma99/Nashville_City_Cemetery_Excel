@@ -23,8 +23,8 @@ The main goal is to create engaging marketing materials for the Nashville City C
 
 ## Project Status
 
-- **Completion: Project is done.
-- **Potential Improvements: Could use some more data cleaning.
+- Completion: Project is done.
+- Potential Improvements: Could use some more data cleaning.
 
 ## Sources
 
